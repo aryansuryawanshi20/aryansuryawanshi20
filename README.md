@@ -1,6 +1,27 @@
-# 💫 About Me:
-<br>🔭 I’m currently working on Python projects | Streamlit web apps  <br><br>👯 I’m looking to collaborate on Beginner-friendly open source | Python & data projects  <br><br>🤝 I’m looking for help with Clean code practices | Real-world project structure  <br><br>🌱 I’m currently learning Python | SQL | Django | Backend development  <br><br>💬 Ask me about Python | OOPs | Django | SQL  <br><br>⚡ Fun fact  I learn faster by breaking things and fixing them again 😄
+<h1 align="center">Hi I'm Aryan Suryawanshi </h1>
+<h3 align="center">
+Aspiring Software Engineer | Python & Backend Developer
+</h3>
+<p align="center">
+Computer Science Graduate passionate about building real-world applications and learning by doing 🚀
+</p>
 
+
+
+
+### 👨‍💻 About Me
+
+🔭 I’m currently working on Python projects | Streamlit web apps  
+
+👯 I’m looking to collaborate on Beginner-friendly open source | Python & data projects  
+
+🤝 I’m looking for help with Clean code practices | Real-world project structure  
+
+🌱 I’m currently learning Python | SQL | Django | Backend development  
+
+💬 Ask me about Python | OOPs | Django | SQL  
+
+⚡ Fun fact  I learn faster by breaking things and fixing them again 😄
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aryan-suryawanshi-a309082b3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanvgsurya@gmail.com) 
